@@ -8,3 +8,5 @@ Explorador de info de devs usando a API do GitHub.
 - React
 - Typescript
 - Styled Components
+
+[Link de acesso](https://josielmatos.github.io/github-app/)
